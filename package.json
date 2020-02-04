@@ -1,6 +1,6 @@
 {
   "name": "create-django-project",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "bin": {
     "create-django-project": "cli.js"
@@ -10,6 +10,7 @@
   },
   "keywords": ["django", "python", "docker", "docker-compose"],
   "author": "ghdalsrldi@gmail.com",
+  "homepage": "https://github.com/mkhong-otu/create-django-project",
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^3.13.1",
