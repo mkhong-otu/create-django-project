@@ -1,0 +1,18 @@
+{
+  "name": "create-django-project",
+  "version": "1.0.3",
+  "description": "",
+  "bin": {
+    "create-django-project": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["django", "python", "docker", "docker-compose"],
+  "author": "ghdalsrldi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "meow": "^6.0.0"
+  }
+}
